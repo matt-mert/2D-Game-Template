@@ -1,0 +1,12 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "ActionMap1",
+            "id": "598ebe07-6568-4be1-8e91-ad9cdfd99cdb",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
